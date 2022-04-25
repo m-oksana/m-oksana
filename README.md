@@ -1,5 +1,5 @@
 <h3 align="center">Hi 👋, I'm Oksana</h3>
-<p align="center">Software Engineer at <a href="https://innowise-group.com/">Innowise Group</a> in Minsk, Belarus</p>
+<p align="center">Software Engineer at <a href="https://innowise-group.com/">Innowise Group</a></p>
 <p align="center">
   <a href="https://www.linkedin.com/in/oksana--m/">LinkedIn</a>
 </p>
